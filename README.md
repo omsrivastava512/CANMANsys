@@ -2,9 +2,6 @@
 
 This pure PHP web application equips organizations with the tools to efficiently manage canteen operations. It offers a user-friendly interface for:
 
-* **Inventory Management:**
-    - Add, edit, and remove canteen items (food and beverages) with ease.
-    - Generate reports detailing inventory usage for informed purchasing decisions.
 * **Sales Management:**
     - Process customer orders for canteen items seamlessly.
     - Calculate bills accurately to ensure fair pricing.
