@@ -1,4 +1,4 @@
-**Canteen Management System (PHP)**
+# **Canteen Management System (PHP)**
 
 This pure PHP web application equips organizations with the tools to efficiently manage canteen operations. It offers a user-friendly interface for:
 
@@ -11,6 +11,13 @@ This pure PHP web application equips organizations with the tools to efficiently
     - Generate informative reports on sales, revenue, and popularity of items.
     - Gain valuable data-driven insights into customer preferences to tailor your offerings.
     - Identify best-selling items and adjust inventory accordingly.
+ 
+## Demo:
+
+
+https://github.com/user-attachments/assets/97e06430-0703-4553-a9e2-151ca5b16f96
+
+
 
 **Benefits:**
 
