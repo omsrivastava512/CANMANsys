@@ -1,4 +1,4 @@
-# **Canteen Management System (PHP)**
+# **Canteen Management System (PHP)** 
 
 This pure PHP web application equips organizations with the tools to efficiently manage canteen operations. It offers a user-friendly interface for:
 
@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/97e06430-0703-4553-a9e2-151ca5b16f96
 
 **Benefits:**
 
+* **Implementing [AutoCrud](https://github.com/omsrivastava512/autocrud):** Dynamically generating CRUD pages based on tables in your database.
 * **Enhanced Efficiency:** Streamline manual tasks and automate inventory tracking.
 * **Improved Accuracy:** Reduce errors in order processing and billing.
 * **Data-Driven Decisions:** Make informed choices based on sales and inventory data.
